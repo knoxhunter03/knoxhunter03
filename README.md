@@ -1,4 +1,4 @@
-![Banner Image](./Profile_Banner)
+![Banner Image](https://drive.google.com/file/d/10ZplriLW452mobbzCMTCVKHkSiaMxpK8/view?usp=sharing)
 <h1 align="center">Hi, Mangalam here!</h1>
 <h3 align="center"></h3>
 
