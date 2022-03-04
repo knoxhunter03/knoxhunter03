@@ -1,4 +1,4 @@
-![Banner Image](https://drive.google.com/file/d/10ZplriLW452mobbzCMTCVKHkSiaMxpK8/view?usp=sharing)
+[![Profile-Banner.png](https://i.postimg.cc/d3j0k7pv/Profile-Banner.png)](https://postimg.cc/1V4SbzyY)
 <h1 align="center">Hi, Mangalam here!</h1>
 <h3 align="center"></h3>
 
@@ -6,7 +6,7 @@
 
 <h3 align="left">Brief Bio</h3>
 They say "Graduates from IITs, NITs and other premiere instituties of India have rich lavishing salary packages". People see them as life qualifiers just because they cracked an exam, which in my opinion is pretty unjustified.  
-I have always dreamed of making a difference through technology. I'm on a mission to change this idea of society that getting a good college is primiarily important to do good in life. 
+I have always dreamed of making a difference through technology. I'm on a mission to change this idea of society that getting a good college is primiarily important to do good in life. Honestly, I aspire to get a high paying job in MNC & flex at par!
 
 <h3 align="left"></h3> 
 
