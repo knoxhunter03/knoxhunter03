@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knoxhunter03&label=Profile%20views&color=0e75b6&style=flat" alt="knoxhunter03" /> </p>
 
+[![Github](https://img.shields.io/github/followers/knoxhunter03?label=Follow&style=social)](https://github.com/knoxhunter03?tab=followers)
+
 <h3 align="left">Brief Bio</h3>
 They say "Graduates from IITs, NITs and other premiere instituties of India have rich lavishing salary packages". People see them as life qualifiers just because they cracked an exam, which in my opinion is pretty unjustified.  
 I have always dreamed of making a difference through technology. I'm on a mission to change this idea of society that getting a good college is primiarily important to do good in life. Honestly, I aspire to get a high paying job in MNC & flex at par!
